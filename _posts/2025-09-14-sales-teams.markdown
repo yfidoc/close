@@ -9,6 +9,6 @@ thumbnail: codify-thumbnail.png
 alt: image-alt
 project-date: September 2025
 category: Business Development
-description: Leverage on specialist expertise and proven systems, without the overhead of hiring, training, and managing an internal sales team, to scale revenues faster. Besides cost savings, achieve significant higher returns on each dollar spent.    
+description: Leverage on specialist expertise and proven systems, without the overhead of hiring, training, and managing an internal sales team, to scale revenues faster. Besides cost savings, achieve significantly higher returns on each dollar spent.    
 
 ---
